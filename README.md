@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CristobalHenriquez/CristobalHenriquez/main/assets/banner.jgp" alt="Cristóbal Henriquez Bohmwald — Developer & Educator" />
+  <img src="https://raw.githubusercontent.com/CristobalHenriquez/CristobalHenriquez/main/assets/banner.jpg" alt="Cristóbal Henriquez Bohmwald — Developer & Educator" />
 </p>
 
 <h1 align="center">¡Hola! Soy Cristóbal 👋</h1>
