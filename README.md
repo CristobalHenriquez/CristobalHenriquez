@@ -65,10 +65,49 @@
 ---
 
 ## 📊 Métricas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristobalHenriquez&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristobalHenriquez&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+<div align="center">
+
+  <!-- Stats principales -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CristobalHenriquez&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&custom_title=Cristobal%20Henriquez%20Bohmwald%20—%20GitHub%20Stats&cache_seconds=7200"
+    alt="GitHub Stats"
+    height="170"
+  />
+
+  <!-- Racha de contribuciones -->
+  <img
+    src="https://streak-stats.demolab.com?user=CristobalHenriquez&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&cache_seconds=7200"
+    alt="GitHub Streak"
+    height="170"
+  />
+
+  <br/>
+
+  <!-- Lenguajes más usados (ajustable) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristobalHenriquez&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=7200&hide=Jupyter%20Notebook,scss,css"
+    alt="Top Langs"
+    height="175"
+  />
+
+  <!-- Trofeos -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=CristobalHenriquez&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    alt="Trophies"
+    height="120"
+  />
+
+  <br/>
+
+  <!-- Activity Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CristobalHenriquez&theme=react-dark&hide_border=true&area=true"
+    alt="Activity Graph"
+    width="100%"
+  />
+
+</div>
+
 
 ---
 
