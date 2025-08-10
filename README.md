@@ -37,9 +37,15 @@
   <!-- Bases de datos -->
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <!-- Diseño -->
+  <!-- Diseño y Contenido -->
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" />
+  <img alt="CapCut" src="https://img.shields.io/badge/CapCut-000000?logo=capcut&logoColor=white" />
+  <!-- Gestión y Productividad -->
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" />
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" />
 </p>
+
 
 
 ---
