@@ -11,10 +11,13 @@
 ---
 
 ## 🚀 Sobre mí
-- 💼 **DevOps Developer** en la Red Argentina de Municipios frente al Cambio Climático — automatización, CI/CD y optimización del ciclo de vida del software.  
-- 🚀 **Fundador de [Artisans Thinking](http://artisansthinking.com)** — estudio de desarrollo y diseño con foco en soluciones creativas y de impacto.  
-- 👨‍🏫 **Docente** en la E.E.S. Orientada N° 225 “General José de San Martín”.  
-- 🎓 **Técnico Superior en Desarrollo de Software** · **Diplomatura en Diseño UX/UI (UTN, finalizada)** · **Diplomatura en DevOps (MundoE, en curso)**.
+- 💼 **DevOps Developer** en la [Red Argentina de Municipios frente al Cambio Climático](https://ramcc.net) — especializado en automatización, CI/CD y optimización del ciclo de vida del software.  
+- 🚀 **Fundador de [Artisans Thinking](http://artisansthinking.com)** — estudio de desarrollo y diseño enfocado en crear soluciones tecnológicas creativas, innovadoras y con impacto real.  
+- 🎓 **Docente** en la E.E.S. Orientada N° 225 *"General José de San Martín"* — formando a estudiantes en programación, informática y herramientas digitales aplicadas.  
+- 📚 **Formación académica y profesional:**  
+  - 🎓 **Técnico Superior en Desarrollo de Software**  
+  - 🎨 Diplomatura en **Diseño UX/UI** – UTN   
+  - ⚙️ Diplomatura en **DevOps** – MundoE *(en curso)*
 
 ---
 
