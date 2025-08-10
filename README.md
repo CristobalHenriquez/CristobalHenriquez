@@ -6,7 +6,7 @@
 <h1 align="center">¡Hola! Soy Cristóbal 👋</h1>
 
 <p align="center">
-  DevOps Developer | Fundador de Artisans Thinking | Docente en Informática | Apasionado por la Automatización, el Desarrollo Web y la Enseñanza Tecnológica
+  DevOps Developer | Fundador de Artisans Thinking | Técnico Superior en Desarrollo de Software | Docente en Informática | Apasionado por la Automatización, el Desarrollo Web y la Enseñanza Tecnológica
 </p>
 
 ---
@@ -16,10 +16,10 @@
 - 💼 **DevOps Developer** en la [Red Argentina de Municipios frente al Cambio Climático](https://ramcc.net) – Implementación y optimización de infraestructuras TI, automatización de procesos y desarrollo de soluciones para mejorar el ciclo de vida del software.
 - 👨‍🏫 **Docente** en la E.E.S. Orientada N° 225 *"General José de San Martín"* – Fundamentos de Programación, Alfabetización Informática y Redes Digitales.
 - 🧑‍💻 **Desarrollador freelance** – Aplicaciones y sitios web dinámicos en PHP y Python, integraciones con APIs, mantenimiento y actualización de proyectos.
-- 🎓 Formación en constante crecimiento:  
+- 🎓 **Formación**:  
+  - Técnico Superior en **Desarrollo de Software** – Complejo Educativo Brig. Gral. Estanislao López  
+  - Diplomatura en **Diseño UX/UI** – UTN *(finalizada y aprobada)*  
   - Diplomatura en **DevOps** – MundoE *(en curso)*  
-  - Diplomatura en **Diseño UX/UI** – UTN *(en curso)*  
-  - Tecnicatura en **Desarrollo de Software** – Complejo Educativo Brig. Gral. Estanislao López  
   - Curso de **Desarrollo Full Stack** – Potrero Digital  
   - **Análisis de Datos** – Google/Coursera
 - 📍 Rosario, Santa Fe – Argentina  
@@ -73,5 +73,3 @@
 - 🔗 LinkedIn: [Cristóbal Henriquez Bohmwald](https://www.linkedin.com/in/cristobalhenriquezbohmwald/)
 - 🌐 Web: [artisansthinking.com](http://artisansthinking.com)
 - 📧 Email: [Cristobalhb@live.com](mailto:Cristobalhb@live.com)
-
----
