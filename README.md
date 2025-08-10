@@ -55,27 +55,27 @@
 ---
 
 ## 📬 Contacto
-<p align="center">
+<div align="center">
+
   <!-- Botón Email -->
-  <a href="mailto:Cristobalhb@live.com" style="text-decoration:none;">
+  <a href="mailto:Cristobalhb@live.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+
   <!-- Botón LinkedIn -->
-  <a href="https://www.linkedin.com/in/cristobalhenriquezbohmwald/" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/cristobalhenriquezbohmwald/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <!-- Botón Web -->
-  <a href="http://artisansthinking.com" style="text-decoration:none;">
-    <img alt="Web" src="https://img.shields.io/badge/Web-111111?style=for-the-badge&logo=About.me&logoColor=white">
-  </a>
-</p>
 
-<!-- Botón Artisans con logo propio -->
-<p align="center">
-  <a href="http://artisansthinking.com" style="text-decoration:none;">
-    <span style="display:inline-flex;align-items:center;gap:8px;background:#1e1e1e;border:1px solid #333;padding:10px 14px;border-radius:999px;">
-      <img src="https://raw.githubusercontent.com/CristobalHenriquez/CristobalHenriquez/main/assets/logo_artisans.png" alt="Artisans Thinking" width="22" height="22" style="border-radius:4px;">
-      <strong style="color:#171717;">Artisans Thinking</strong>
-    </span>
+  <!-- Separador -->
+  <br/><br/>
+
+  <!-- Logo Artisans como botón (reemplaza 'Web') -->
+  <a href="https://artisansthinking.com" title="Artisans Thinking">
+    <img src="https://raw.githubusercontent.com/CristobalHenriquez/CristobalHenriquez/main/assets/logo_artisans.png"
+         alt="Artisans Thinking"
+         height="56">
   </a>
-</p>
+
+</div>
+
