@@ -5,16 +5,16 @@
 
 <!-- Texto animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1A0&center=true&vCenter=true&width=600&lines=DevOps+Developer;Founder+of+Artisans+Thinking;Technical+Educator;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D1A0&center=true&vCenter=true&width=640&lines=DevOps+Developer;Founder+of+Artisans+Thinking;Technical+Educator;Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 Sobre mí
-💡 **Técnico Superior en Desarrollo de Software**, especializado en **DevOps** y desarrollo web.  
-💼 **Fundador de [Artisans Thinking](http://artisansthinking.com)** – soluciones digitales creativas con impacto.  
-👨‍🏫 Docente en la E.E.S. Orientada N° 225 *"General José de San Martín"*.  
-🎓 Diplomatura en **Diseño UX/UI** (UTN – finalizada) y Diplomatura en **DevOps** (MundoE – en curso).  
+- 💼 **DevOps Developer** en la Red Argentina de Municipios frente al Cambio Climático — automatización, CI/CD y optimización del ciclo de vida del software.  
+- 🚀 **Fundador de [Artisans Thinking](http://artisansthinking.com)** — estudio de desarrollo y diseño con foco en soluciones creativas y de impacto.  
+- 👨‍🏫 **Docente** en la E.E.S. Orientada N° 225 “General José de San Martín”.  
+- 🎓 **Técnico Superior en Desarrollo de Software** · **Diplomatura en Diseño UX/UI (UTN, finalizada)** · **Diplomatura en DevOps (MundoE, en curso)**.
 
 ---
 
@@ -41,8 +41,8 @@
 | **Artisans Thinking** | Estudio de desarrollo y diseño para soluciones creativas con impacto. | [Visitar](http://artisansthinking.com) |
 | **Avya** | Plataforma web para gestión y presentación de productos y servicios. | [Visitar](https://avya.es) |
 | **CloverTecno** | Sitio corporativo con catálogo de productos y soluciones tecnológicas. | [Visitar](https://clovertecno.com) |
-| **DAP Satimbues** | Portal institucional para el Departamento de Protección Ambiental de Timbúes. | [Visitar](https://dapsatimbues.com) |
-| **CILD Argentina** | Web para el Concurso Internacional Latinoamérica Danza. | [Visitar](https://cildargentina.com) |
+| **DAP Satimbues** | Portal institucional del Departamento de Protección Ambiental de Timbúes. | [Visitar](https://dapsatimbues.com) |
+| **CILD Argentina** | Web del Concurso Internacional Latinoamérica Danza. | [Visitar](https://cildargentina.com) |
 
 ---
 
@@ -56,7 +56,26 @@
 
 ## 📬 Contacto
 <p align="center">
-  <a href="mailto:Cristobalhb@live.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/cristobalhenriquezbohmwald/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="http://artisansthinking.com"><img src="https://img.shields.io/badge/Web-000000?logo=About.me&logoColor=white" /></a>
+  <!-- Botón Email -->
+  <a href="mailto:Cristobalhb@live.com" style="text-decoration:none;">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <!-- Botón LinkedIn -->
+  <a href="https://www.linkedin.com/in/cristobalhenriquezbohmwald/" style="text-decoration:none;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <!-- Botón Web -->
+  <a href="http://artisansthinking.com" style="text-decoration:none;">
+    <img alt="Web" src="https://img.shields.io/badge/Web-111111?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+</p>
+
+<!-- Botón Artisans con logo propio -->
+<p align="center">
+  <a href="http://artisansthinking.com" style="text-decoration:none;">
+    <span style="display:inline-flex;align-items:center;gap:8px;background:#1e1e1e;border:1px solid #333;padding:10px 14px;border-radius:999px;">
+      <img src="https://raw.githubusercontent.com/CristobalHenriquez/CristobalHenriquez/main/assets/logo_artisans.webp" alt="Artisans Thinking" width="22" height="22" style="border-radius:4px;">
+      <strong style="color:#fff;">Artisans Thinking</strong>
+    </span>
+  </a>
 </p>
