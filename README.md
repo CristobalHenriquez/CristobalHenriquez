@@ -74,8 +74,8 @@
 <p align="center">
   <a href="http://artisansthinking.com" style="text-decoration:none;">
     <span style="display:inline-flex;align-items:center;gap:8px;background:#1e1e1e;border:1px solid #333;padding:10px 14px;border-radius:999px;">
-      <img src="https://raw.githubusercontent.com/CristobalHenriquez/CristobalHenriquez/main/assets/logo_artisans.webp" alt="Artisans Thinking" width="22" height="22" style="border-radius:4px;">
-      <strong style="color:#fff;">Artisans Thinking</strong>
+      <img src="https://raw.githubusercontent.com/CristobalHenriquez/CristobalHenriquez/main/assets/logo_artisans.png" alt="Artisans Thinking" width="22" height="22" style="border-radius:4px;">
+      <strong style="color:#171717;">Artisans Thinking</strong>
     </span>
   </a>
 </p>
