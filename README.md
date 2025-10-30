@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CristobalHenriquez/CristobalHenriquez/main/assets/banner.jpg" alt="Cristóbal Henriquez Bohmwald — Developer, Educator & Founder" width="100%" />
+  <img src="https://raw.githubusercontent.com/CristobalHenriquez/CristobalHenriquez/main/assets/Banner.png" alt="Cristóbal Henriquez Bohmwald — Developer, Educator & Founder" width="100%" />
 </p>
 
 <!-- Texto animado -->
