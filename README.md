@@ -49,6 +49,8 @@
   <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" />
 </p>
 
+
+
 ---
 
 ## 🌟 Proyectos Destacados
@@ -105,6 +107,7 @@
   />
 
 </div>
+
 
 ---
 
