@@ -1,7 +1,20 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CristobalHenriquez/CristobalHenriquez/main/assets/Banner.png" alt="Cristóbal Henriquez Bohmwald — Developer, Educator & Founder" width="100%" />
-</p>
+<!-- Banner principal con fallback para rate limit -->
+<div align="center">
+  <picture>
+    <source media="(min-width: 1200px)" srcset="https://github.com/CristobalHenriquez/CristobalHenriquez/blob/main/assets/Banner.png?raw=true">
+    <img src="https://github.com/CristobalHenriquez/CristobalHenriquez/blob/main/assets/Banner.png?raw=true" 
+         alt="Cristóbal Henriquez Bohmwald — Developer, Educator & Founder" 
+         width="100%" 
+         style="max-width: 1200px; border-radius: 10px;" />
+  </picture>
+</div>
+
+<!-- Badges dinámicos -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CristobalHenriquez&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/CristobalHenriquez?style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/CristobalHenriquez?style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Stars" />
+</div>
 
 <!-- Texto animado -->
 <p align="center">
@@ -11,60 +24,90 @@
 ---
 
 ## 🚀 Sobre mí
-- 💼 **DevOps Developer** en la [Red Argentina de Municipios frente al Cambio Climático](https://ramcc.net) — especializado en automatización, CI/CD y optimización del ciclo de vida del software.  
-- 🚀 **Fundador de [Artisans Thinking](http://artisansthinking.com)** — estudio de desarrollo y diseño enfocado en crear soluciones tecnológicas creativas, innovadoras y con impacto real.  
-- 🎓 **Docente** en la E.E.S. Orientada N° 225 *"General José de San Martín"* — formando a estudiantes en programación, informática y herramientas digitales aplicadas.  
-- 📚 **Formación académica y profesional:**  
-  - 🎓 **Técnico Superior en Desarrollo de Software**  
-  - 🎨 Diplomatura en **Diseño UX/UI** – UTN   
-  - ⚙️ Diplomatura en **DevOps** – MundoE *(en curso)*
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Experiencia Profesional
+- 🏢 **DevOps Developer** en [RAMCC](https://ramcc.net)  
+  *Automatización, CI/CD y optimización del software*
+- 🚀 **Fundador** de [Artisans Thinking](http://artisansthinking.com)  
+  *Soluciones tecnológicas innovadoras*
+- 🎓 **Docente** en E.E.S.O. N° 225 *"General José de San Martín"*  
+  *Programación e informática aplicada*
+
+</td>
+<td width="50%">
+
+### 🎓 Formación Continua
+- 💻 **Técnico Superior en Desarrollo de Software**
+- 🎨 **Diplomatura UX/UI** – UTN
+- ⚙️ **Diplomatura DevOps** – MundoE *(cursando)*
+- 📈 **Aprendizaje continuo** en tecnologías emergentes
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <!-- Lenguajes -->
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
-  <!-- Frameworks -->
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
-  <!-- DevOps / Cloud -->
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" />
-  <!-- Bases de datos -->
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <!-- Diseño y Contenido -->
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white" />
-  <img alt="CapCut" src="https://img.shields.io/badge/CapCut-000000?logo=capcut&logoColor=white" />
-  <!-- Gestión y Productividad -->
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" />
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" />
-</p>
+## 🛠️ Arsenal Tecnológico
 
+<details>
+<summary><b>🔥 Stack Principal</b></summary>
+<br>
 
+**💻 Backend & APIs**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**🎨 Frontend**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**☁️ DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**🗄️ Bases de Datos**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**🎯 Diseño & Productividad**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+</details>
 
 ---
 
 ## 🌟 Proyectos Destacados
-| Proyecto | Descripción | Enlace |
-|----------|-------------|--------|
-| **CenArb** | Plataforma integral para la gestión municipal del censo de arbolado urbano, con aplicación Android y panel web de administración. | [Visitar](http://cenarb.net/) |
-| **Avya** | Plataforma web para la gestión y presentación de productos y servicios de alto nivel. | [Visitar](https://avya.es) |
-| **CloverTecno** | E-commerce corporativo con catálogo de productos y soluciones tecnológicas. | [Visitar](https://clovertecno.com) |
-| **DAPSA Timbúes** | Sitio web estación de servicios y restaurante en Timbúes, Santa Fe. | [Visitar](https://dapsatimbues.com) |
-| **CILD Argentina** | Sitio oficial del Concurso Internacional Latinoamérica Danza, con información y gestión de inscripciones. | [Visitar](https://cildargentina.com) |
+
+<div align="center">
+
+| 🚀 Proyecto | 📋 Descripción | 🛠️ Tech Stack | 🔗 Enlaces |
+|-------------|----------------|----------------|------------|
+| **CenArb** | Plataforma integral para gestión municipal del censo de arbolado urbano con app Android | Laravel, Android, MySQL | [🌐 Web](http://cenarb.net/) |
+| **Avya** | Plataforma web para gestión y presentación de productos y servicios de alto nivel | Vue.js, PHP, MySQL | [🌐 Web](https://avya.es) |
+| **CloverTecno** | E-commerce corporativo con catálogo de productos y soluciones tecnológicas | Laravel, Vue.js | [🛒 Tienda](https://clovertecno.com) |
+| **DAPSA Timbúes** | Sitio web para estación de servicios y restaurante en Timbúes, Santa Fe | PHP, Bootstrap | [🌐 Web](https://dapsatimbues.com) |
+| **CILD Argentina** | Sitio oficial del Concurso Internacional Latinoamérica Danza | Laravel, Vue.js | [🌐 Web](https://cildargentina.com) |
+
+</div>
 
 ---
 
-## 📊 Métricas
+## 📈 Actividad & Métricas
+
 <div align="center">
 
   <!-- Stats principales -->
@@ -83,17 +126,17 @@
 
   <br/>
 
-  <!-- Lenguajes más usados (ajustable) -->
+  <!-- Lenguajes más usados -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristobalHenriquez&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=7200&hide=Jupyter%20Notebook,scss,css"
-    alt="Top Langs"
+    alt="Top Languages"
     height="175"
   />
 
   <!-- Trofeos -->
   <img
     src="https://github-profile-trophy.vercel.app/?username=CristobalHenriquez&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-    alt="Trophies"
+    alt="GitHub Trophies"
     height="120"
   />
 
@@ -108,27 +151,24 @@
 
 </div>
 
-
 ---
 
-## 📬 Contacto
+## 📬 Conectemos
+
 <div align="center">
 
-  <!-- Botón Email -->
+  <!-- Botones de contacto -->
   <a href="mailto:Cristobalhb@live.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-
-  <!-- Botón LinkedIn -->
   <a href="https://www.linkedin.com/in/cristobalhenriquezbohmwald/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <!-- Separador -->
   <br/><br/>
 
-  <!-- Logo Artisans como botón (reemplaza 'Web') -->
-  <a href="https://artisansthinking.com" title="Artisans Thinking">
+  <!-- Logo Artisans Thinking -->
+  <a href="https://artisansthinking.com" title="Artisans Thinking - Estudio de Desarrollo">
     <img src="https://raw.githubusercontent.com/CristobalHenriquez/CristobalHenriquez/main/assets/logo_artisans.png"
          alt="Artisans Thinking"
          height="56">
@@ -136,3 +176,12 @@
 
 </div>
 
+---
+
+<div align="center">
+  
+### 💬 *"La tecnología no es nada. Lo importante es que tengas fe en la gente"* — Steve Jobs
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+
+</div>
